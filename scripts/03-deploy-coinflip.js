@@ -1,8 +1,7 @@
 const {ether, ethers, artifacts, contract} = require("hardhat")
-// const {hre} = require("hardhat")
 
-const CONTRACT_ADDRESS = "0x856e4424f806D16E8CBC702B3c0F2ede5468eae5"  // get from browser console
-const PLAYER_ADDRESS = "0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f"
+const CONTRACT_ADDRESS = "0xb0279Db6a2F1E01fbC8483FCCef0Be2bC6299cC3"  // get from browser console
+const PLAYER_ADDRESS = "0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f" //change to your own address
 
 async function main(){
 
